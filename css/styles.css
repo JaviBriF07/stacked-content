@@ -16,3 +16,9 @@ h1[class*="title"]{
 .title-1{
     top: 0%;
 }
+.title-2{
+    top: 36.364px;
+}
+.title-3{
+    top: 72.728px;
+}
